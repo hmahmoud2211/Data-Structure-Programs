@@ -51,11 +51,11 @@ The **Flight and Spare Parts Management System** is a C++ program that integrate
 ### Steps:
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/flight-spare-parts-management.git
+   https://github.com/hmahmoud2211/Data-Structure-Programs.git
    ```
 2. **Navigate to the Project Directory**
    ```bash
-   cd flight-spare-parts-management
+   cd Data-Structure-Programs
    ```
 3. **Compile the Program**
    ```bash
